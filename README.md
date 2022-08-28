@@ -1,4 +1,4 @@
-# ModifiedGA
+# ModifiedGA  (Google Colab)
 
 A modified Genetic Algorithm for Simultanious Feature Selection and Hyper Parameter Optimization.
 Basic Classifier used is XGBoost.
